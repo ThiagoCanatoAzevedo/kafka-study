@@ -59,7 +59,7 @@ Mouse → Producer → Kafka Broker → Consumer → Tkinter Canvas
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ThiagoCanatoAzevedo/kafka-study.git
 cd kafka-study
 ```
 
